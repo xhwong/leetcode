@@ -1,7 +1,7 @@
 package code2019;
 
 /**
- * @author bixiuwu
+ * @author xhowng
  * @date 2019/6/15
  */
 public class day0614 {
