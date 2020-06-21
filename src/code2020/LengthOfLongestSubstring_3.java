@@ -1,4 +1,4 @@
-package code2020.String;
+package code2020;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -8,7 +8,7 @@ import java.util.Set;
  * @date 2020/6/3
  * @link: https://leetcode.com/problems/longest-substring-without-repeating-characters/
  */
-public class LengthOfLongestSubstring3 {
+public class LengthOfLongestSubstring_3 {
     public static void main(String[] args) {
         System.out.println(lengthOfLongestSubstring("abcabcbb"));
         System.out.println(lengthOfLongestSubstring("bbbbb"));
